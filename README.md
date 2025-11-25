@@ -1,7 +1,7 @@
 # GCS-BO2
 Few BO2 scripts to get money and powerups
 
-To install these scripts just drop the files on C:\Users\--USER--\AppData\Local\Plutonium\storage\t6\scripts\zm
+To install these scripts just drop the files on C:\Users\USER\AppData\Local\Plutonium\storage\t6\scripts\zm
 
 Commands:
 (may need to use "/" as a prefix on the console)
